@@ -229,10 +229,6 @@ return -1;  // just a placeholder to make gcc happy for now
 * Think carefully about your test cases!
 */
 int main() {
-   srand(1);
-   char test[] = "  a  c 55   ";
-   char pat[] = "  hello there  ";
-   str_trim(test);
 }
 
 
